@@ -1,2 +1,1 @@
-# Mathematical-statistics-
-Mathematical statistics course home task
+Here you can find files used to solve Mathematical statistics course hometask
